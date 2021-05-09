@@ -1,1 +1,1 @@
-I'm Yaw Anokwa ([@yanokwa](https://github.com/yanokwa)). I founded ODK ([@GetODK](https://github.com/getodk)) in 2008 and haven't stopped working on it since 👨🏾‍💻
+Founder and CEO at ODK. ODK lets you build powerful offline forms to collect the data you need wherever it is. Get it at [getodk.org](https://getodk.org) and [@getodk](http://github.com/getodk).
